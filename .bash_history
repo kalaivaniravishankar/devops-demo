@@ -493,3 +493,104 @@ git remote
 git remote -v
 git add orgin git@github.com:kalaivaniravishankar/devops-demo.git
 git add orgin git@github.com:kalaivaniravishankar/shankarvani.git
+ls
+ls -a
+mkdir createsimplelearn
+ls
+touch git1
+ls -a
+nano "hi welcome to devops" git1
+ls -la
+git init
+git config --global user.name "kalaivani"
+git config --global user.email "vani212008@gmail.com"
+ git config --list
+git status
+ git add .
+git status
+git commit -m "first commit in git1"
+echo "second line added in git1" >> git1
+git add git1
+git status
+git commit -m "changes made in git1"
+git show git1
+git log --oneline --decorate
+git checkout 
+git checkout 9f56b73
+echo "third line added in first commit" >> git1
+git checkout git1
+git log --oneline --decorate
+git status
+git checkout -b newbranch
+git status
+git log --oneline --decorate
+git show git1
+git add .
+git status
+git commit -m "lines added in newbranch" 
+git log --oneline --decorate
+echo "second line added in first commit" git1
+git add .
+git status
+git commit -m "changes added in first commit"
+git log --oneline --decorate
+git show git1
+git checkout master
+git show git1
+git log --oneline --decorate
+git merge newbranch
+git show git1
+git merge master
+git checkout newbranch
+git log --oneline --decorate
+git merge master
+git show git1
+nano git1
+git show git1
+git add .
+git status
+git commit -m "3rd commit"
+git show git1
+nano git1
+git show git1
+git log --oneline
+git checkout df21445
+git log --oneline --decorate
+nano git1
+git log --oneline --decorate
+git add .
+git commit -m "commited"
+git checkout -b detachedbranch
+git show git1
+git merge master
+git checkout master
+git show git1
+nano git1
+git checkout master
+git checkout detachedbranch
+nano git1
+git add .
+git status
+git checkout master
+git merge detachedbranch
+git show git1
+nano git1
+git branch -M main
+ git log --oneline --all --decorate
+git remote
+git remote -v
+git remote add origin git@github.com:kalaivaniravishankar/my-demo_oct21.git
+git remote
+git remote -v
+ssh-keygen
+y
+ ssh-keygen
+ cat ~/.ssh/id_rsa.pub
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC3b7I1qL1FbWscRczKzBM1kPIOkv+uowZ29F679aiQ2TV8fZoLrOktlDbjSLcfnDJHrQ7pugaGLz9WSfq8rzIUH+BU1ZHkerAll5rHMfrPuaqEJ3+TSUJ+tH
+bZHvHLk1WSKEhBgBOUU1Y9vw4+wn89YNQtFOkCd4tH7aF9i7HogNihNOvt1iOgFpZ1CzTf0Ego1uJ1OL84tOCo60Lfj8UsoeWey2SP46HqhTx9CuTMsmYf1DRkLCr/EFFWgndHZkozZ5h6blRD+wLBHgbbuGwl
+VoELQvOfkVnITaWz/YDlChTNYJ8s5nDGtClcfnLUJ0nQ0qcNL8TjLU4fumSTjdOr root@ip-172-31-26-19.us-east-2.compute.internal
+clear
+git push -u origin main
+git pull
+git push -u orgin main
+git branch
