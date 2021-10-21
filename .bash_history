@@ -594,3 +594,193 @@ git push -u origin main
 git pull
 git push -u orgin main
 git branch
+git add orgin git@github.com:kalaivaniravishankar/my-demo_oct21.git
+ls
+cd  createsimplelearn
+git status
+git add orgin git@github.com:kalaivaniravishankar/my-demo_oct21.git
+git remote
+git remote -v
+git add orgin  git@github.com:kalaivaniravishankar/my-demo_oct21.git
+git branch -M main
+git push -u origin main
+git pull
+git push -u orgin main
+git remote add orgin
+ ! [rejected]        main -> main (non-fast-forward)
+error: failed to push some refs to 'github.com:kalaivaniravishankar/my-demo_oct21.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+clear
+git remote add orgin git@github.com:kalaivaniravishankar/devops-demo.git
+git push -u orgin main
+pwd
+ls
+cd
+cd createssimplelearn
+cdcreatesimplelearn 
+cd createsimplelearn 
+ls
+ls -la
+ls -a
+ls
+pwd
+git clone git@github.com:kalaivaniravishankar/simplelearnproject.git
+cd  createsimplelearn 
+cd simplilearnproject
+cd simplelearn
+cd ..
+cd simplilearnproject
+git pull origin main
+git pull
+git remote add orgin main
+cd kalaivaniravishankar
+git pull origin main
+git congig --global user.name "kalaivaniravishankar"
+git config --global user.name "kalaivaniravishankar"
+git config --global user.email "vani212008@gmail.com"
+git clone git@github.com:kalaivaniravishankar/simplelearnproject.git
+echo "kalaivaniravishankar" > kalai.txt
+ git add .
+ git commit -m "Added kalai.txt"
+git push ssh-origin main
+ssh-keygen
+git push
+git remote add orgin git@github.com:kalaivaniravishankar/simplelearnproject.git
+git remote -v
+git remote push  -u orgin main
+git remote add ssh-origin git@github.com:kalaivaniravishankar/simplelearnproject.git
+sudo yum update
+ls
+cd createsimplelearn
+ls
+ls -a
+echo "line1" > file1.txt
+ls
+echo "line2" > file2.txt
+ls
+git status
+git add .
+ls
+git status
+nano file1
+nano file2
+git status
+nano file1
+git add .
+git commit -m "first commit file1"
+git show file1
+git log --oneline --decorate
+git branch
+git status
+git add file1
+ls
+cat file1
+git log --oneline
+git merge main
+git log
+git init
+git add .
+git status
+git commit -m "first commit in file1"
+git status
+git show file1
+git merge newbranch
+git push
+git remote add git@github.com:kalaivaniravishankar/simplelearnproject.git
+git push -u origin main
+git branch -M main
+ git remote -v
+ git push -u origin main
+git remote add -u git@github.com:kalaivaniravishankar/simplelearnproject.git
+git config --global user.name "kalaivaniravishankar"
+git config --global user.email "vani212008@gmail.com"
+git remote -v
+git push -u orgin main
+ssh keygen
+ssh-keygen
+git push
+git remote add orgin git@github.com:kalaivaniravishankar/devops-demo.git
+git push orgin
+git push -u orgin main
+fatal: Could not read from remote repository.
+Please make sure you have the correct access rights
+ls
+cd createsimplilearn
+ls -a
+cd  createsimplelearn  
+ls -a
+ssh -T git@github.com
+ls
+cd  createsimplelearn
+git remote -v
+git remote add git@github.com:kalaivaniravishankar/devops-demo.git
+git remote add ssh-origin git@github.com:kalaivaniravishankar/devops-demo.git
+git remote -v
+echo "Your name" > yourfirstname.txt
+git add .
+git commit -m "Added abhi.txt"
+git push ssh-origin main
+git remote set url orgin https://github.com/kalaivaniravishankar/devops-demo.git@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
+git remote urlorgin https://github.com/kalaivaniravishankar/devops-demo.git@ghp_86r8bkCZsQX2AqGG1w1nYmTA1ZIxoV3
+zQtpG 
+git url login https://github.com/kalaivaniravishankar/devops-demo.git@ghp_86r8bkCZsQX2AqGG1w1nYmTA1ZIxoV3@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
+git pull
+git pull orgin main
+https://github.com/settings/keys/58279932https://github.com/settings/keys/58279932
+ ssh-keygen -t rsa
+ssh-keygenssh-keygen
+ssh-keygen
+cat ~/.ssh/id_rsa.pub
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDBlrbMC7WqP5EvjEyZUO3ydXvOpLdbJIPGVAhYrdRCS6Q0pHPitd8DGXtd2vg8kAPHI0V1MI92dMgkpkkyFcFFNP+PHsZ30Z0m6saMcfdfmtjG4148AbH1Kq
+Kq1yELANKwJ1ywnInOmdkY/phuB/Bczh8Nmm24NYQw4107vd9LbSLjugDOiMX4slkaHbQs8Rkbc+ZicROz9/wTyzG3z1jDsyBRhWI0xfEG9L3nSyK9kHTpJwDPwQsBgB+k8+d0ac96M35YY6tgB1BM3lnAVvDj
+git push -u orgin main
+git push -u orgin
+git push -u orgin main
+git pull
+git pull 
+git branch --set -u -to=<remote>/<branch> main
+git push
+git push 
+git push orgin
+git push -u orgin newbranch
+git push -u orgin maain
+git push
+git remote add git@github.com:kalaivaniravishankar/simplelearnproject.git
+ git push -m orgin
+clear
+git pull
+git merge newbranch
+gitbranch
+ls
+ls -a
+cd simplelearnproject
+ls
+git status
+git pull
+git remote add orgin git@github.com:kalaivaniravishankar/devops-demo.git
+git remote
+git remote -v
+git push -u origin main
+nano file2
+git status
+git add file2
+git commit -m "first commit in file2"
+git show file2
+git clone git https://github.com/kalaivaniravishankar/devops-demo.git
+git clone https://github.com/kalaivaniravishankar/devops-demo.git
+cd devops-demo
+git pull origin main
+git remote add ssh-origin git@github.com:kalaivaniravishankar/devops-demo.git
+echo "kalaivaniravishankar" > kalaivani.txt
+ git add .
+git commit -m "Added abhi.txt"
+pwd
+ls
+ls -a
+cd  createsimplelearn
+ls -a
+git remote -v
+git push -u orgin main
